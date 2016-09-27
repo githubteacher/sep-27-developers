@@ -8,6 +8,7 @@ Lexington Market
 Inner Harbor
 The National Aquarium
 American Visionary Art Museum
+Federal Hill
 
 ### Current Temperature
 72 Degrees
