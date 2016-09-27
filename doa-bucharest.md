@@ -1,10 +1,10 @@
 ## yay a title !
 
 ### Restaurants
-Plenty
+- Plenty
 
 ### Places to go
-Quite a few
+- Quite a few
 
 ### Current temperature
-16 C
+- 16 C
