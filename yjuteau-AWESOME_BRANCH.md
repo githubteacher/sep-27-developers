@@ -1,9 +1,12 @@
 ## MONTREAL
 
 ### Restaurants
+- Le Grinder
+- Le Fantôme
+
 
 ### places to go
-
+-Botanical Garden
 
 ### current temperature
-Winter is comming
+- too cold
