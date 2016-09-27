@@ -11,6 +11,7 @@ Empire State
 Freedom Tower
 Brooklyn Bridge
 SOL
+Wall St
 
 ### Current Temperature
 74
