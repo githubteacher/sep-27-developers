@@ -1,8 +1,8 @@
 ## Bear Grass, NC
 
 ### Restaurants
-None
+- None
 ### Places To Go
-None
+- None
 ### Current Temperature
-79F
+- 79F
