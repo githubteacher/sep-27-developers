@@ -7,6 +7,7 @@ Computer Programming Workshops!
 Bowling
 Ice Skating
 Shopping
+Swimming
 
 ************
 Current Temperature:
