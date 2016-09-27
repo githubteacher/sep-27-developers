@@ -1,12 +1,11 @@
 ## Montreal, QC
 
 ### Restaurants
-- City Tacos
-- Poke One n Half
+- BEVO
 
 ### Places to Go
-- Balboa Park
+- Old Montreal
 
 ### Current Temperature
-- 94 degrees
+- 14 degrees
 
