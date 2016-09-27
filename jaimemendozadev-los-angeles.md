@@ -5,6 +5,7 @@
 + [Tsujita](https://www.yelp.com/biz/tsujita-la-artisan-noodle-los-angeles-2)
 + [In-N-Out Burger](http://www.in-n-out.com/)
 + [Langer's Delicatessen](http://www.langersdeli.com/)
++ [Cassell's Hamburgers](http://www.cassellshamburgers.com/)
 
 ### Places to Go
 + Dodger Stadium
