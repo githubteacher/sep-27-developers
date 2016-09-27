@@ -2,7 +2,7 @@
 
 ### Restaurants
 
-- None
+- Deadwood
 
 ### Places To Go
 
