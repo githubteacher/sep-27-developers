@@ -1,7 +1,3 @@
-## Canned Recaps
-
-These are for use during webinars of GitHub for Developers. They are organized by module, and should be sent during breaks in Gitter or chat.
-
 ### Getting Ready for Class
 - Make sure you have [Git insalled](https://git-scm.com/) on your computer and a [GitHub account](https://github.com/).
 
