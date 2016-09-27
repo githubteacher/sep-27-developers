@@ -6,7 +6,8 @@
 
 
 ### places to go
--Botanical Garden
+- Botanical Garden
+- Mont royal
 
 ### current temperature
 - too cold
