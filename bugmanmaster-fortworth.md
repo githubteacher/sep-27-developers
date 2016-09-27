@@ -4,6 +4,7 @@
 - Seasons 52
 - City Grill
 - Brewed
+- Shaws
 
 ### Place to Go
 - Watergardens
