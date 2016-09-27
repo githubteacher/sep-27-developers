@@ -1,7 +1,7 @@
 ## Phoenix, AZ
 
 ### Restaurants
-- Oregonos
+- Oreganos
 - Sun Asia
 
 ### Places to Go
