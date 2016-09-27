@@ -6,6 +6,7 @@
 
 ### Places to Go
 - Balboa Park
+- Coronado Island
 
 ### Current Temperature
 - 94 degrees
