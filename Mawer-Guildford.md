@@ -1,13 +1,13 @@
 Guildford
 
 ***********
-Places to Go:
+Things to do:
 
-Computer Programming Workshops!
-Bowling
-Ice Skating
-Shopping
-Swimming
+- Computer Programming Workshops!
+- Bowling
+- Ice Skating
+- Shopping
+- Swimming
 
 ************
 Current Temperature:
