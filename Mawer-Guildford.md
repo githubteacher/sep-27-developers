@@ -12,4 +12,4 @@ Things to do:
 ************
 Current Temperature:
 
-20 degrees celcius
+17 degrees celcius - Autumn is here!
