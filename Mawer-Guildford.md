@@ -1,15 +1,15 @@
 Guildford
 
 ***********
-Places to Go:
+Things to do:
 
-Computer Programming Workshops!
-Bowling
-Ice Skating
-Shopping
-Swimming
+- Computer Programming Workshops!
+- Bowling
+- Ice Skating
+- Shopping
+- Swimming
 
 ************
 Current Temperature:
 
-20 degrees celcius
+17 degrees celcius - Autumn is here!
